@@ -10,7 +10,9 @@ _22/April/2021_
 The aim of this github project is to learn various **commands**, **functionalities** and **best practices** in version control and github. The main data used is the _bikeshare.py_ file which was created in an earlier project to learn python and pandas.
 
 ### Files used
-Include the files used
+- **README.md**
+- **bikeshare.py**
+- **.gitignore**
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
