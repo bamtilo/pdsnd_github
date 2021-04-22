@@ -7,7 +7,7 @@ _22/April/2021_
 **Using bikeshare project to learn Version Control and Github**
 
 ### Description
-Describe what your project is about and what it does
+The aim of this github project is to learn various **commands**, **functionalities** and **best practices** in version control and github. The main data used is the _bikeshare.py_ file which was created in an earlier project to learn python and pandas.
 
 ### Files used
 Include the files used
