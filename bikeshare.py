@@ -6,7 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-def get_filters():
+def filter_data():
     """
     Asks user to specify a city, month, and day to analyze.
 
@@ -179,7 +179,7 @@ def display_data(df):
 
 def main():
     while True:
-        city, month, day = get_filters()
+        city, month, day = filter_data()
         df = load_data(city, month, day)
 
         time_stats(df)
