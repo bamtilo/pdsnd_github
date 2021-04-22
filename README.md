@@ -15,4 +15,6 @@ The aim of this github project is to learn various **commands**, **functionaliti
 - **.gitignore**
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1. _https://github.com/udacity/pdsnd_github_ (**This is the UDACITY repository that was forked**)
+2. _https://guides.github.com/features/mastering-markdown/_ (**Quickhelp with Markdown**)
+3. _https://git-scm.com/docs/_ (**General Git reference**)
